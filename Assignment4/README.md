@@ -6,6 +6,8 @@ The next is a boxplot that shows the distribution of wins by Team Rank. Boxplot 
 
 I then show a univariate histogram for the distribution of fielding percentage for the Detriot Tigers.
 
+For the categorical data, League Wins, I used a bar chart.
+
 I also show a multivariate scatterplot of a paired-down dataset for just the Detroit Tigers.
 
 Lastly I want to see if there are any trends in fielding percentage by error and grouped by divisionID.
