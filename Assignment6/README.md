@@ -1,0 +1,1 @@
+This Assingment shows transforming datatypes. For the 'lgID' column, I change it from a string (object) to a category. For the 'BB' column, I change it from a float to a string.
